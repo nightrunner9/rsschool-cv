@@ -14,3 +14,6 @@ console.log(i)
 
 ```
 
+### Contact me 
+[Telegram](https://t.me/nightrunner9)
+ <br> [VK](https://vk.com/feed)

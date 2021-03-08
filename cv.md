@@ -7,3 +7,10 @@
 *  I complete __CSS course__ and __HTML course__ of [Codecademy](https://www.codecademy.com/profiles/nightrunner99139416850)   
    * ... _in process_...
 * What about English ? - learn English on my own , try to speak in English .
+#### Code example :
+```
+let i= 'Hello!'
+console.log(i)
+
+```
+
